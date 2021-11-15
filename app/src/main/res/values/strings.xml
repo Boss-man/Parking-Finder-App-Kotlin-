@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Parking Finder App</string>
+    <string name="no_account">Not Have account? <b>SignUP</b></string>
+</resources>
